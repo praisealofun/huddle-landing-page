@@ -75,18 +75,19 @@
 
         }
 
-        /* .logo_container {
-          margin: 20px 1000px 0px 0px;
-        } */
+        .logo_container {
+          margin: 20px 2000px 0px 0px;
+        }
 
         .section {
+          max-width: 1440px;
         margin: 20px 100px 0px 0px;
         }
 
 
         .image_section {
           width: 350px;
-          height: 250px;
+          height: 250px;s
           text-align: left;
           
         }
